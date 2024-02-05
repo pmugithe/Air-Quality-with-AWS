@@ -1,2 +1,3 @@
 # Air-Quality-with-AWS
-Repository contains files and instructions on how to launch and make it working.
+The repository contains files and instructions on how to launch and make it work.
+**Currently working on it and more updates soon.**
